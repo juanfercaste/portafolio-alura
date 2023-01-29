@@ -819,7 +819,7 @@ section {
     background-color: var(--color-grey5);
   }
   .controlls .control {
-    margin: 0.6rem 2rem !important;
+    margin: 0.6rem 0rem !important;
   }
 }
 @media screen and (max-width: 700px) {
