@@ -868,4 +868,10 @@ section {
   .section {
     padding: 2.5rem !important;
   }
+  .contact-content-container {
+    padding-top: 0rem;
+  }
+  .contact-content-container .right-contact {
+    margin-top: 1rem;
+  }
 }/*# sourceMappingURL=style.css.map */
